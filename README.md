@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepesh Durgam</h1>
 <h3 align="center">A passionate Learner from India</h3>
 
-- 🌱 I’m currently in **B.Sc.IT(2nd Year)**
+- 🌱 I’m currently in **B.Sc.IT(3nd Year)**
 
 - 📫 How to reach me **deepeshdurgam@gmail.com**
 
